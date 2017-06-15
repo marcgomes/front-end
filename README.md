@@ -4,19 +4,19 @@
 
 - Brincar com o codepen
 
-+ [Codepen](https://codepen.io/)
+[Codepen](https://codepen.io/)
 
 - Assistir vídeos e ouvir podcast
 
-+ [Yb Frontinsampa](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA)
+[Yb Frontinsampa](https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA)
 
-+ [Pd Devnaestrada](http://devnaestrada.com.br/)
+[Pd Devnaestrada](http://devnaestrada.com.br/)
 
 - Tútoriais
 
-+ [Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+[Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
 
-+ [Códigos de Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git)
+[Códigos de Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git)
 
 
 #### Referências
