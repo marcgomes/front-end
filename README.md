@@ -31,6 +31,7 @@
 [HTML5 MAUJOR]
 
 
+
 #### Referências
 [Willian Justen](https://willianjusten.com.br/)
 
@@ -54,4 +55,4 @@ ________________________________________________________________________
 
 - *Willian Justen Git e Github para iniciantes* - [Acessar Curso ](https://www.udemy.com/git-e-github-para-iniciantes)*
 
-- *Vídeo de Responsive Design Por que e para que utilizar um framework* - [Acessar vídeo ] (https://youtu.be/RqarmHs2MAo)
+- *Vídeo de Responsive Design por que e para que utilizar um framework* - [Acessar video ](https://youtu.be/RqarmHs2MAo)
