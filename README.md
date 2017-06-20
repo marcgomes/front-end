@@ -54,4 +54,4 @@ ________________________________________________________________________
 
 - *Willian Justen Git e Github para iniciantes* - [Acessar Curso ](https://www.udemy.com/git-e-github-para-iniciantes)*
 
-- *Vídeo de Responsive Design Por que e para que utilizar um framework* - [Acessar vídeo] (https://youtu.be/RqarmHs2MAo)*
+- *Vídeo de Responsive Design Por que e para que utilizar um framework* - [Acessar vídeo ] (https://youtu.be/RqarmHs2MAo)
