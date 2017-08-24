@@ -37,15 +37,13 @@
 
 [Afonso Pacifer](https://afonsopacifer.github.io/)
 
+[Felipe Fialho](https://www.felipefialho.com/)
+
 
 #### Lista de Conteúdos
 - Afonso Pacifer CSS Formas Basicas - [Acessar Curso ](https://codepen.io/afonsopacifer/post/hora-de-aventura-com-css-1-formas-basicas)
 
 - Willian Justen Aprendendo SVG Do Início ao Avançado - [Acessar Curso ](https://www.udemy.com/aprendendo-svg-do-inicio-ao-avancado/)
-
-- Microdate
-
-- Wai aria
 
 
 ________________________________________________________________________
@@ -56,3 +54,5 @@ ________________________________________________________________________
 - *Willian Justen Git e Github para iniciantes* - [Acessar Curso ](https://www.udemy.com/git-e-github-para-iniciantes)*
 
 - *Vídeo de Responsive Design por que e para que utilizar um framework* - [Acessar video ](https://youtu.be/RqarmHs2MAo)
+
+- *Utilização do Browser-sync* - [Acessar tutorial ](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/)
